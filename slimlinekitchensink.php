@@ -1,7 +1,7 @@
 <?php
 /* 
 Plugin Name: Slimline Kitchen Sink
-Plugin URI: http://tomjn.com
+Plugin URI: http://www.tomjn.com
 Description: Force shows the kitchen sink puts both toolbars on the same bar to save vertical space if there's enough screenspace
 Version: 0.2
 Author: Tom J Nowell
